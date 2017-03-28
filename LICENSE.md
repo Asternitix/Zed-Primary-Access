@@ -1,4 +1,4 @@
-Copyright (c) 2016, Asternitix
+Copyright (c) 2017, Asternitix
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
